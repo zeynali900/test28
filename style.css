@@ -6,3 +6,7 @@ body{
 	bolder:2px solid black;
 	padding:20px;
 }
+.classy{
+	font-size:20px;
+	border:2px dotted red;
+}
